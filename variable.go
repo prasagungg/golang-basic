@@ -13,4 +13,8 @@ func main() {
 
 	var age = 10;
 	fmt.Println(age);
+
+	//shorthand var
+	alamat := "agung prasetio"
+	fmt.Println(alamat)
 }
