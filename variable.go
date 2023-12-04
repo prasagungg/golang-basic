@@ -17,4 +17,13 @@ func main() {
 	//shorthand var
 	alamat := "agung prasetio"
 	fmt.Println(alamat)
+
+	//multiple variable
+	var (
+		firstname  = "agung"
+	 	lastname = "prasetio"
+	)
+
+	fmt.Println(firstname)
+	fmt.Println(lastname)
 }
