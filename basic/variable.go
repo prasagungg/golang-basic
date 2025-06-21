@@ -8,4 +8,14 @@ func main() {
 
 	nama = "Agung ganteng"
 	fmt.Println(nama)
+
+	var (
+		firstName = "Agung"
+		lastName = "Prasetio"
+	)
+
+
+	fmt.Println(firstName)
+	fmt.Println(lastName)
+
 }
